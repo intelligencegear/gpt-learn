@@ -1,2 +1,5 @@
 openai
+numpy
+pandas
+tiktoken
 python-dotenv
